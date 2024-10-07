@@ -1,7 +1,7 @@
 # Auth Bot
 
 This is the source code of the **nom's auth** Discord bot as it was termed once and a week after it got termed the new account got pulled back which made me angry enough to just publish the source code and live with it..
-
+ 
 ![image](https://i.e-z.host/t2vbfqy7.png)
 
 [Developer Portal](https://discord.com/developers/applications) 
