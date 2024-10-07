@@ -23,4 +23,4 @@ Make sure that the redirect uri matches the **index** endpoint in bot.py
 
 5. Enjoy!
 Enjoy this cute kitten!
-![image](https://i.e-z.host/7x11aiiw.png)
+![image](https://i.e-z.host/7x11aiiw.png) 
