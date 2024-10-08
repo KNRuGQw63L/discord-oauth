@@ -20,7 +20,7 @@ Make sure that the redirect uri matches the **index** endpoint in bot.py
 3. Go in your file explorer and extract the ZIP file      
  
 4. Go in the extracted folder and open the start.bat file    
- 
+  
 5. Enjoy!     
 Enjoy this cute kitten!   
 ![image](https://i.e-z.host/7x11aiiw.png)     
