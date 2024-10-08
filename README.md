@@ -12,7 +12,7 @@ Make sure that the redirect uri matches the **index** endpoint in bot.py
 <br> 
     
 # Guide on how to use these tool  
- 
+  
 1. Install Python from 
  
 2. Download the repo as a ZIP   
