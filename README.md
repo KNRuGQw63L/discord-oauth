@@ -10,7 +10,7 @@ This is the source code of the **nom's auth** Discord bot as it was termed once 
 <br>  
 Make sure that the redirect uri matches the **index** endpoint in bot.py    
 <br> 
-    
+     
 # Guide on how to use these tool  
   
 1. Install Python from  
