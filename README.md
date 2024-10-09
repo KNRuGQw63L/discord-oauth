@@ -4,7 +4,7 @@ This is the source code of the **nom's auth** Discord bot as it was termed once 
    
 ![image](https://i.e-z.host/t2vbfqy7.png) 
  
-[Developer Portal](https://discord.com/developers/applications)  
+[Developer Portal](https://discord.com/developers/applications)   
 ![image](https://i.e-z.host/sc0348kj.png)   
 ![image](https://i.e-z.host/m9ugxrw3.png)   
 <br>  
